@@ -1,0 +1,5 @@
+{
+  "people": 5,
+  "case_1": {"swerve": false, "reason": "Avoiding harm to the majority and prioritizing fairness unless the threat is imminent"},
+  "case_2": {"swerve": true, "reason": "The one is a child, and saving a child outweighs the risk to the criminals, especially if they are known to be dangerous"}
+}
